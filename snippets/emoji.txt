@@ -1,8 +1,10 @@
 (?i:\bAD\b|Andorra|安道尔),🇦🇩
 (?i:\bBD\b|Bangladesh|孟加拉),🇧🇩
 (?i:\bBH\b|Bahrain|巴林),🇧🇭
+(?i:\bBY\b|Belarus|白俄罗斯),🇧🇾
 (?i:\bEC\b|Ecuador|厄瓜多尔),🇪🇨
 (?i:\bMA\b|Morocco|摩洛哥),🇲🇦
+(?i:b\NG\b|Nigeria|尼日利亚),🇳🇬
 (?i:\bNP\b|Nepal|尼泊尔),🇳🇵
 (?i:\bPR\b|Puerto.*?Rico|波多黎各),🇵🇷
 (?i:\bPY\b|Paraguay|巴拉圭),🇵🇾
