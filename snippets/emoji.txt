@@ -4,12 +4,15 @@
 (?i:\bBY\b|Belarus|白俄罗斯),🇧🇾
 (?i:\bCW\b|Curaçao|库拉索),🇨🇼
 (?i:\bEC\b|Ecuador|厄瓜多尔),🇪🇨
-(?i:\bMA\b|Morocco|摩洛哥),🇲🇦
 (?i:\bLK\b|Sri.*?Lankan|斯里兰卡),🇱🇰
+(?i:\bLY\b|Libya|利比亚),🇱🇾
+(?i:\bMA\b|Morocco|摩洛哥),🇲🇦
+(?i:\bMU\b|Mauritius|毛里求斯),🇲🇺
 (?i:b\NG\b|Nigeria|尼日利亚),🇳🇬
 (?i:\bNP\b|Nepal|尼泊尔),🇳🇵
 (?i:\bPR\b|Puerto.*?Rico|波多黎各),🇵🇷
 (?i:\bPY\b|Paraguay|巴拉圭),🇵🇾
 (?i:\bRE\b|Reunion|Réunion|留尼汪),🇷🇪
 (?i:\bUA\b|Ukraine|乌克兰),🇺🇦
+(?i:\bUZ\b|Uzbekistan|乌兹别克斯坦),🇺🇿
 (?i:\bVE\b|Venezuela|委内瑞拉),🇻🇪
