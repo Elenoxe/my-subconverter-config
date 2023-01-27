@@ -1,7 +1,7 @@
 # Steam登录时用到的地址，使登录ip判定在国内
 DOMAIN,api.steampowered.com
-DOMAIN-SUFFIX,*.cm.steampowered.com
-DOMAIN-SUFFIX,*.steamserver.net
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
 IP-CIDR,103.10.124.0/24
 IP-CIDR,103.10.125.0/24
 IP-CIDR,103.28.54.0/24
